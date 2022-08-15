@@ -44,5 +44,3 @@
                 ] 
               }
             ```
-6. In case you want eslint rules to fix a specific file for you then run `eslint --fix ${relative_path}`.
-  * e.g. `eslint --fix src/field-interactions/candidate/custom-text-1/my-interactions.ts`
